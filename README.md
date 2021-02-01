@@ -1,1 +1,1 @@
-# API.Architectures
+# Application Architectures
